@@ -1,3 +1,4 @@
+[![Board Status](https://netmaui.visualstudio.com/1687e82a-0f98-4750-a8c7-3b50ba477b32/96937ce8-d221-4635-b23c-8841a6a60dd5/_apis/work/boardbadge/4587a4f7-bf2e-4d28-aee0-d25b91aaa409)](https://netmaui.visualstudio.com/1687e82a-0f98-4750-a8c7-3b50ba477b32/_boards/board/t/96937ce8-d221-4635-b23c-8841a6a60dd5/Microsoft.RequirementCategory)
 # Inventory Hunter
 
 ![Build](https://github.com/EricJMarti/inventory-hunter/workflows/Build/badge.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/ericjmarti/inventory-hunter) ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/ericjmarti/inventory-hunter/latest)
